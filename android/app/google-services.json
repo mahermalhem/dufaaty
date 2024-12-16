@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "520040686443",
+    "project_id": "dof3atty",
+    "storage_bucket": "dof3atty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520040686443:android:8c1033f0c2f750ea62e22e",
+        "android_client_info": {
+          "package_name": "com.dof3atty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520040686443-bva9kj35vlmb3govei89rvpvea1dcd26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRVP0GYj-CxdDzybhzd4ekQEZ0OGxLATo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520040686443-bva9kj35vlmb3govei89rvpvea1dcd26.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520040686443-8tcci2feu0qej9bvs6o4iskk08hldq98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dof3atty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

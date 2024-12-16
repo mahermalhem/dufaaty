@@ -26,14 +26,31 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
+	<key>CodePushDeploymentKey</key>
+	<string>jsf7xZ8frraT0yVX5zhwJkqBkU_mDp-rA9dsdP</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>[REASON]</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>[REASON]</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>[REASON]</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>[REASON]</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>[REASON]</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
