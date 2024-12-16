@@ -69,7 +69,8 @@ export const Colors = {
   blueBayoux: "#4B6D7B",
   darkPurple:"#6524BF",
   orange:"#F2BF27",
-  grey:"#CCCCCC"
+  grey:"#CCCCCC",
+  grey1:"#CCCCCC111"
 };
 
 export default Colors;
